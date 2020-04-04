@@ -1,0 +1,10 @@
+---
+lexicon:
+  abbreviation: 
+  title:  Amazon Timestream
+  description: Fast, scalable, fully managed time series database
+  links:
+    - https://aws.amazon.com/timestream/
+  tags:
+    - database
+    - time series database
