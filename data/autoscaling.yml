@@ -2,7 +2,7 @@
 lexicon:
   title: AWS Auto Scaling
   description: AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. Using AWS Auto Scaling, it’s easy to setup application scaling for multiple resources across multiple services in minutes.
-  abbreviation: None
+  abbreviation: 
   links:
     - https://aws.amazon.com/autoscaling/
   tags:

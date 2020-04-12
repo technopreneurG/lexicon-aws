@@ -1,6 +1,15 @@
 # Amazon Web Services(AWS)
 
 
+## **AWS Auto Scaling**
+
+* AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. Using AWS Auto Scaling, it’s easy to setup application scaling for multiple resources across multiple services in minutes.
+
+* <https://aws.amazon.com/autoscaling/>
+
+* Tags: aws autoscaling, auto scaling
+
+
 ## **AWS**
 *(Amazon Web Services)*
 
