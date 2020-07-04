@@ -1,0 +1,12 @@
+---
+lexicon:
+  title:  AWS Amplify
+  description:  AWS Amplify is a set of tools and services that enables mobile and front-end web developers to build secure, scalable full stack applications for mobile and web.
+  abbreviation:
+  links:
+    - https://aws.amazon.com/amplify/
+    - https://docs.amplify.aws/start
+  tags:
+    - website
+    - full-stack
+    - mobile
